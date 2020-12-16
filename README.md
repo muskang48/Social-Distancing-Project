@@ -24,4 +24,6 @@ For people detection:
 yolov3.weights, yolov3.cfg files (weights file can be downloaded from 
 here : https://pjreddie.com/media/files/yolov3.weights) weight file is not present due to size Issue. 
 ```
+## Demo 
+![demo2](https://user-images.githubusercontent.com/61666843/102327359-a24f5e00-3fab-11eb-8ec5-e341ce18a324.gif)
 
