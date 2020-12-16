@@ -14,3 +14,14 @@ Following steps were used to build social distance detection tool:
 
 ## Requirments 
 To run the code following are needed:
+```
+argparse
+Python 3.5.2
+numpy 1.14.5
+Opencv(CV2) 4.2.0
+
+For people detection:
+yolov3.weights, yolov3.cfg files (weights file can be downloaded from 
+here : https://pjreddie.com/media/files/yolov3.weights) weight file is not present due to size Issue. 
+```
+
